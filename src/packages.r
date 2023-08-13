@@ -1,4 +1,4 @@
-# This script installs the packages required for this notebook
+# This script installs the r packages required for this notebook
 
 # Package names
 packages <- c("dplyr", "RCurl", "ggplot2", "lubridate", "scales")

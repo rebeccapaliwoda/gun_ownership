@@ -1,4 +1,4 @@
-# This script crates the plot for U.S. Home Gun Rates
+# This script creates the plot for U.S. Home Gun Rates
 
 options(repr.plot.width = 9, repr.plot.height = 5)
 

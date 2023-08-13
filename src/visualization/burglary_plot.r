@@ -1,4 +1,4 @@
-# This script crates the plot for U.S. home burglary rates 1995-2016
+# This script creates the plot for U.S. home burglary rates 1995-2016
 
 burglary <- subset(prop_crime_data, crime_type == "Burglary" &
     year >= 1995 & year <= 2016)
