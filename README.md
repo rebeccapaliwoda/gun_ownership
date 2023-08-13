@@ -20,9 +20,8 @@ The dataset was structured in a multiple worksheet excel file which included inf
 
 ## Results
 
-![](\reports\figures\home_gun_rates.png)
+![](reports/figures/home_gun_rates.png)
 
-![](\reports\figures\home_burglary_rates.png)
+![](reports/figures/home_burglary_rates.png)
 
-![](\reports\figures\gunvsburgrates.png)
-
+![](reports/figures/gunvsburgrates.png)
