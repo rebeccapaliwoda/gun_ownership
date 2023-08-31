@@ -38,7 +38,7 @@ Home burglaries have decreased significantly from 39.8% in 1995 to 15.3% in 2015
 
 A comparison of gun ownership and home burglaries.
 
-![](reports/figures/gunvsburgrates.jpg)
+![](reports/figures/gun_vs_burg_rates.jpg)
 
 Both firearm homicides and firearm suicides have increased significantly from 2000-2020.
 
