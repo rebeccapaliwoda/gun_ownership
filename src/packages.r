@@ -1,7 +1,7 @@
 # This script installs the r packages required for this notebook
 
 # Package names
-packages <- c("dplyr", "RCurl", "ggplot2", "lubridate", "scales")
+packages <- c("dplyr", "RCurl", "ggplot2", "lubridate", "scales", "ggpubr")
 
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
